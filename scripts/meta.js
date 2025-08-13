@@ -62,7 +62,7 @@ const creditstranslations = {
 // Fetch all data from meta.json
 fetch("config/meta.json").then(response => response.json()).then(config => {
     // Websites title
-    document.title = config.title || `LinkLoom`;
+    document.title = config.title || `Bharadwaj Routhu`;
 
     // Name, picture & credits
     [
