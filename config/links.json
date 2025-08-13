@@ -1,5 +1,10 @@
 [
     {
+        "url": "https://bharadwaj-r.github.io/Portfolio/",
+        "text": "Portfolio",
+        "icon": "fa-solid fa-user-tie"
+    },
+    {
         "url": "https://medium.com/@bharadwaj_routhu",
         "text": "The Currents!",
         "icon": "fa-brands fa-medium fa-lg"
