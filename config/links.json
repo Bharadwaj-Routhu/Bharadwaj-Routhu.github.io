@@ -12,7 +12,7 @@
     {
         "url": "https://pixelfed.social/bharadwajrouthu",
         "text": "PixelFed - Photography",
-        "icon": "fa-brands fa-pixelfed"
+        "icon": "assets/pixelfed.svg"
     },
     {
         "url": "mailto:fromgithub@shard.anonaddy.com",
