@@ -1,8 +1,8 @@
 {
-    "about": "A simple, self-hosted service for web links – themable, easy to customize and resource-efficient",
-    "favicon": "assets/favicon.svg",
+    "about": "Hello There!",
+    "favicon": "fa-solid fa-bolt",
     "language": "english",
-    "name": "LinkLoom",
-    "picture": "assets/logo.svg",
-    "title": "LinkLoom"
+    "name": "Bharadwaj Routhu",
+    "picture": "assets/Bharadwaj.png",
+    "title": "Bharadwaj Routhu"
 }
