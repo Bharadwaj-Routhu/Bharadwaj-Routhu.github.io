@@ -1,32 +1,37 @@
 [
     {
-        "url": "https://github.com",
+        "url": "https://medium.com/@bharadwaj_routhu",
+        "text": "The Currents! - Now on Medium",
+        "icon": "fa-brands fa-medium fa-lg"
+    },
+    {
+        "url": "https://thecurrentsjournal.wordpress.com/",
+        "text": "The Currents! (Out of Date)",
+        "icon": "fa-solid fa-bolt"
+    },
+    {
+        "url": "https://pixelfed.social/bharadwajrouthu",
+        "text": "PixelFed - Photography",
+        "icon": "fa-brands fa-pixelfed"
+    },
+    {
+        "url": "mailto:fromgithub@shard.anonaddy.com",
+        "text": "Mail",
+        "icon": "fa-solid fa-envelopes-bulk"
+    },
+    {
+        "url": "https://github.com/Bharadwaj-R",
         "text": "GitHub",
         "icon": "fa-brands fa-github fa-lg"
     },
     {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
+        "url": "https://www.linkedin.com/in/bharadwaj-routhu/",
+        "text": "LinkedIn",
+        "icon": "fa-brands fa-linkedin-in"
     },
     {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
+        "url": "https://instagram.com/bharadwaj_routhu",
         "text": "Instagram",
-        "icon": "fa-brands fa-instagram fa-lg"
-    },
-    {
-        "url": "https://bsky.app",
-        "text": "Bluesky",
-        "icon": "fa-brands fa-bluesky"
-    },
-    {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
+        "icon": "fa-brands fa-instagram"
     }
 ]
