@@ -1,18 +1,18 @@
 [
     {
         "url": "https://medium.com/@bharadwaj_routhu",
-        "text": "The Currents! - Now on Medium",
+        "text": "The Currents!",
         "icon": "fa-brands fa-medium fa-lg"
     },
     {
         "url": "https://thecurrentsjournal.wordpress.com/",
-        "text": "The Currents! (Out of Date)",
+        "text": "The Currents! Blog",
         "icon": "fa-solid fa-bolt"
     },
     {
         "url": "https://pixelfed.social/bharadwajrouthu",
-        "text": "PixelFed - Photography",
-        "icon": "assets/pixelfed.svg"
+        "text": "PixelFed",
+        "icon": "fa-brands fa-pixelfed"
     },
     {
         "url": "mailto:fromgithub@shard.anonaddy.com",
