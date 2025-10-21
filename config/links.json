@@ -10,6 +10,11 @@
         "icon": "fa-brands fa-medium"
     },
     {
+        "url": "https://bharadwajrouthu.substack.com/",
+        "text": "Substack",
+        "icon": "fa-solid fa-rss"
+    },
+    {
         "url": "https://thecurrentsjournal.wordpress.com/",
         "text": "The Currents! Blog",
         "icon": "fa-solid fa-bolt"
